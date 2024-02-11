@@ -17,7 +17,7 @@ This project is still a work in progress. It will be updated when a fix is neede
 * Copy the entirety off the javascript function and create a bookmark
 * Paste this into the page area and title the page anything you want.
 
-```javascript:(function(){document.body.appendChild(document.createElement('script')).src='PASTE RAW URL HERE';})();```
+```javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://raw.githubusercontent.com/palerbr1ck/TSPCheat/main/script.js';})();```
 
 * Open TownsendPress and click on the newly created bookmarklet
 * Enjoy!
